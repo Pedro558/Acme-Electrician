@@ -1,0 +1,16 @@
+{
+  "name": "acme_electrician",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d acme_electrician"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://acme-electrician.github.io/ElectricSolutions",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
