@@ -238,4 +238,7 @@ footer{
   #services img{
     width: 100%;
   }
+  #showcase h2{
+    font-size: 40px;
+  }
 }
